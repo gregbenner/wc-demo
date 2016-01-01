@@ -1,5 +1,7 @@
 # wc-demo
 
+* Edited Neon Rust examples with npm start and fixed dependencies (non-successful PR https://github.com/dherman/wc-demo/pull/3) *
+
 A simple word-counting demo to showcase [Neon](https://github.com/dherman/neon).
 
 # Setup
